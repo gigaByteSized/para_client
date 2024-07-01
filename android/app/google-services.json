@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320809981779",
+    "project_id": "para-cfd13",
+    "storage_bucket": "para-cfd13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320809981779:android:096df672b276922c1633a6",
+        "android_client_info": {
+          "package_name": "com.example.para_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDebfE56AZi3rj5ppDY1KPrdvHu7L4dyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
